@@ -43,7 +43,7 @@ This project is a full-featured AI chatbot that leverages the Vercel AI SDK to i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/openai-ai-sdk-chatbot.git
+git clone https://github.com/Edmon02/openai-ai-sdk-chatbot.git
 cd openai-ai-sdk-chatbot
 ```
 
@@ -239,9 +239,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - [email@example.com](mailto:email@example.com)
+Edmon - [@EdmonSahakayan](https://twitter.com/EdmonSahakayan) - [edmon.sahakyan@gmail.com](mailto:edmon.sahakyan@gmail.com)
 
-Project Link: [https://github.com/yourusername/openai-ai-sdk-chatbot](https://github.com/yourusername/openai-ai-sdk-chatbot)
+Project Link: [https://github.com/Edmon02/openai-ai-sdk-chatbot](https://github.com/Edmon02/openai-ai-sdk-chatbot)
 
 ---
 
